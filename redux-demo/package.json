@@ -1,0 +1,18 @@
+{
+  "name": "redux-demo",
+  "version": "1.0.0",
+  "description": "REDUX:\r -------\r -> Redux is a predictable state container for JavaScript apps.\r ----------------------------------------------------------------\r * It is for JavaScript app.\r * It is a state container\r * It is predictable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  }
+}
